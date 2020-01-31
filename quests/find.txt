@@ -1,0 +1,9 @@
+{
+    "quest": {
+        "name": "Find the Dildo",
+        "info": "please retrieve me dildos",
+        "questType": "objective",
+        "rewardType": "gold"
+        "reward": 500
+    }
+}
