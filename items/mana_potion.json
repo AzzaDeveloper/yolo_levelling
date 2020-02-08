@@ -1,0 +1,9 @@
+{
+    "item": {
+        "name": "Mana Potion",
+        "type": "consumable",
+        "rarity": 0,
+        "info": "A mana potion, crafted from the energy of all living beings."
+       
+    }
+}
