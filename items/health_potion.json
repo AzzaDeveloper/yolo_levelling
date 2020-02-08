@@ -1,0 +1,8 @@
+{
+    "item": {
+        "name": "Health Potion",
+        "type": "consumable",
+        "rarity": 0,
+        "info": "A health potion, crafted from the essence of the living."
+    }
+}
