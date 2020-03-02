@@ -9,11 +9,11 @@
         "stats": {
             "damage": {
 	            "physical" = {
-		            "slash" = 5,
-		            "puncture" = 1
+		            "slash": 5,
+		            "puncture": 1
 	            },
 	            "elemental" = {
-		            "electricity" = 2
+		            "electricity": 2
 	            }
             },
             "statusChance": 0.3,
