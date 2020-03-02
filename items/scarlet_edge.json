@@ -4,7 +4,7 @@
             "name": "Scarlet's Edge",
             "type": "weapon",
             "rarity": -1,
-            "info": "The blade glows with [REDACTED]."
+            "description": "The blade glows with [REDACTED]."
         },
         "stats": {
             "damage": {
