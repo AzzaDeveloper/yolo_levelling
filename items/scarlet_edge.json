@@ -2,6 +2,7 @@
     "scarlet_edge": {
         "info": {
             "name": "Scarlet's Edge",
+			"id": "scarlet_edge",
             "type": "weapon",
             "rarity": -1,
             "description": "The blade glows with [REDACTED]."
