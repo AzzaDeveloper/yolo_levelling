@@ -1,0 +1,31 @@
+{
+    "aerovolt": {
+        "info": {
+            "name": "Aerovolt",
+            "id": "aerovolt",
+            "type": "weapon",
+            "class": "dagger",
+            "rarity": 4,
+            "modifier": "",
+            "description": "Being both electrified and freezed at the same time isn't very pleasant.",
+            "requirements": {},
+            "effects": ""
+        },
+        "stats": {
+            "damage": {
+                "physical": {
+	                "slash": 10
+                },
+                "elemental": {
+					"electricity": 5,
+					"cold":5
+                }
+            },
+            "statusChance": 0.5,
+            "criticalChance": 0.2,
+            "criticalDamage": 2,
+            "runeSlots": 4,
+            "runes": {}
+        }
+    }
+}
