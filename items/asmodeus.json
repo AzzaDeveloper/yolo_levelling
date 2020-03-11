@@ -1,0 +1,30 @@
+{
+    "asmodeus": {
+        "info": {
+            "name": "Asmodeus",
+            "id": "asmodeus",
+            "type": "weapon",
+            "class": "dagger",
+            "rarity": 4,
+            "modifier": "",
+            "description": "So you're telling me this thing is a dagger? \n Yeah. \n It's as long as a sword. \n Exactly.",
+            "requirements": {},
+            "effects": ""
+        },
+        "stats": {
+            "damage": {
+                "physical": {
+	                "slash": 15
+                },
+                "elemental": {
+					"heah": 10
+                }
+            },
+            "statusChance": 0.3,
+            "criticalChance": 0.3,
+            "criticalDamage": 2,
+            "runeSlots": 4,
+            "runes": {}
+        }
+    }
+}
