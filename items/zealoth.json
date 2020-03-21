@@ -1,26 +1,29 @@
 {
-    "artorias": {
+    "zealoth": {
         "info": {
-        	"name": "Artorias",
-			"id": "artorias",
+        	"name": "Zealoth",
+			"id": "zealoth",
             "type": "weapon",
             "class": "greatsword",
             "rarity": 4,
             "modifier": "",
-            "description": "Bonfire li- wait. Sorry. Wrong game.",
+            "description": "The runes on this sword actually spells out [DATA EXPUNGED]",
             "requirements": {},
-            "effects": "Heavy sword that serves a single purpse: Kill."
+            "effects": "The runic symbols make this sword deals electricty damage along with slash."
         },
         "stats": {
             "damage": {
                 "physical": {
-	                "slash": 35
+                    "slash": 25
+                },
+                "elemental": {
+                    "electricity": 15
                 }
             },
             "attackSpeed": 1,
             "attackRest": 1,
             "status": "bleeding",
-            "statusChance": 0.3,
+            "statusChance": 0.6,
             "criticalChance": 0.2,
             "criticalDamage": 2,
             "runeSlots": 4,

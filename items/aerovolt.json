@@ -9,7 +9,7 @@
             "modifier": "",
             "description": "Being both electrified and freezed at the same time isn't very pleasant.",
             "requirements": {},
-            "effects": ""
+            "effects": "Nimble Dagger with varying elemental damage."
         },
         "stats": {
             "damage": {
@@ -21,6 +21,8 @@
 					"cold":5
                 }
             },
+            "attackSpeed": 1.3,
+            "attackRest": 0.8,
             "statusChance": 0.5,
             "criticalChance": 0.2,
             "criticalDamage": 2,

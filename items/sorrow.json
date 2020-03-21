@@ -1,0 +1,30 @@
+{
+    "sorrow": {
+        "info": {
+        	"name": "Sorrow",
+			"id": "sorrow",
+            "type": "weapon",
+            "class": "scythe",
+            "rarity": 4,
+            "modifier": "",
+            "description": "It's a scythe, what do you want?",
+            "requirements": {},
+            "effects": "Scythe."
+        },
+        "stats": {
+            "damage": {
+                "physical": {
+	                "slash": 75
+                }
+            },
+            "attackSpeed": 0.5,
+            "attackRest": 0.5,
+            "status": "bleeding",
+            "statusChance": 0.5,
+            "criticalChance": 0.3,
+            "criticalDamage": 2,
+            "runeSlots": 4,
+            "runes": {}
+        }
+    }
+}

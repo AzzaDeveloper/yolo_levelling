@@ -1,28 +1,28 @@
 {
-    "artorias": {
+    "zangetsu": {
         "info": {
-        	"name": "Artorias",
-			"id": "artorias",
+        	"name": "Nyangetsu",
+			"id": "zangetsu",
             "type": "weapon",
-            "class": "greatsword",
+            "class": "katana",
             "rarity": 4,
             "modifier": "",
-            "description": "Bonfire li- wait. Sorry. Wrong game.",
+            "description": "\"Zangetsu is copyrighted.\"\n\"Really? What do we name it then?\"\n\"Nyangetsu.\"",
             "requirements": {},
-            "effects": "Heavy sword that serves a single purpse: Kill."
+            "effects": "A heavy katana with low speed and base damage in exchange for extreme critical chance and multiplier."
         },
         "stats": {
             "damage": {
                 "physical": {
-	                "slash": 35
+	                "slash": 20
                 }
             },
             "attackSpeed": 1,
             "attackRest": 1,
             "status": "bleeding",
             "statusChance": 0.3,
-            "criticalChance": 0.2,
-            "criticalDamage": 2,
+            "criticalChance": 0.8,
+            "criticalDamage": 2.5,
             "runeSlots": 4,
             "runes": {}
         }

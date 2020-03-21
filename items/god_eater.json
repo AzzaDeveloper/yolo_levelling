@@ -1,27 +1,26 @@
 {
-    "artorias": {
+    "god_eater": {
         "info": {
-        	"name": "Artorias",
-			"id": "artorias",
+        	"name": "God Eater",
+			"id": "god_eater",
             "type": "weapon",
             "class": "greatsword",
-            "rarity": 4,
+            "rarity": 5,
             "modifier": "",
-            "description": "Bonfire li- wait. Sorry. Wrong game.",
+            "description": "",
             "requirements": {},
-            "effects": "Heavy sword that serves a single purpse: Kill."
+            "effects": "Incredibly heavy sword with a low critical rate for a high base damage."
         },
         "stats": {
             "damage": {
                 "physical": {
-	                "slash": 35
+	                "slash": 50
                 }
             },
-            "attackSpeed": 1,
-            "attackRest": 1,
-            "status": "bleeding",
+            "attackSpeed": 0.8,
+            "attackRest": 0.8,
             "statusChance": 0.3,
-            "criticalChance": 0.2,
+            "criticalChance": 0.1,
             "criticalDamage": 2,
             "runeSlots": 4,
             "runes": {}

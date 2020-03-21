@@ -20,6 +20,8 @@
 					"toxin": 10
                 }
             },
+            "attackSpeed": 1.3,
+            "attackRest": 0.8,
             "statusChance": 1,
             "criticalChance": 0.2,
             "criticalDamage": 2,

@@ -1,20 +1,21 @@
 {
-    "artorias": {
+    "nazghul": {
         "info": {
-        	"name": "Artorias",
-			"id": "artorias",
+        	"name": "Nazghul",
+			"id": "nazghul",
             "type": "weapon",
             "class": "greatsword",
             "rarity": 4,
             "modifier": "",
-            "description": "Bonfire li- wait. Sorry. Wrong game.",
+            "description": "Thats a really big sword. Legit.",
             "requirements": {},
-            "effects": "Heavy sword that serves a single purpse: Kill."
+            "effects": "It's big. It deals damage. What else do you want?"
         },
         "stats": {
             "damage": {
                 "physical": {
-	                "slash": 35
+                    "slash": 25,
+                    "puncture": 15
                 }
             },
             "attackSpeed": 1,
