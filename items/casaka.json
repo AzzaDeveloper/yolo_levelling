@@ -22,6 +22,7 @@
             },
             "attackSpeed": 1.3,
             "attackRest": 0.8,
+            "status": "poisoned",
             "statusChance": 1,
             "criticalChance": 0.2,
             "criticalDamage": 2,

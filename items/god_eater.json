@@ -20,6 +20,7 @@
             "attackSpeed": 0.8,
             "attackRest": 0.8,
             "statusChance": 0.3,
+            "status": "bleeding",
             "criticalChance": 0.1,
             "criticalDamage": 2,
             "runeSlots": 4,

@@ -23,6 +23,7 @@
             },
             "attackSpeed": 1.3,
             "attackRest": 0.8,
+            "status": "electrified",
             "statusChance": 0.5,
             "criticalChance": 0.2,
             "criticalDamage": 2,
