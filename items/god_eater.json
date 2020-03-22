@@ -18,7 +18,7 @@
                 }
             },
             "attackSpeed": 0.8,
-            "attackRest": 1,
+            "attackRest": 1.1,
             "statusChance": 0.3,
             "status": "bleeding",
             "criticalChance": 0.1,
