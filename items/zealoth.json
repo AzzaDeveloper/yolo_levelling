@@ -17,11 +17,11 @@
                     "slash": 25
                 },
                 "elemental": {
-                    "electricity": 20
+                    "electricity": 15
                 }
             },
             "attackSpeed": 1,
-            "attackRest": 1,
+            "attackRest": 0.9,
             "status": "bleeding",
             "statusChance": 0.6,
             "criticalChance": 0.2,
