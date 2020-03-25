@@ -9,18 +9,18 @@
             "modifier": "",
             "description": "\"Zangetsu is copyrighted.\"\n\"Really? What do we name it then?\"\n\"Nyangetsu.\"",
             "requirements": {},
-            "effects": "A heavy katana with low speed and base damage in exchange for extreme critical chance and multiplier."
+            "effects": "A heavy katana with high speed and low base damage in exchange for extreme critical chance and multiplier."
         },
         "stats": {
             "damage": {
                 "physical": {
-	                "slash": 20
+	                "slash": 10
                 }
             },
-            "attackSpeed": 1,
-            "attackRest": 1,
+            "attackSpeed": 1.5,
+            "attackRest": 0.5,
             "status": "bleeding",
-            "statusChance": 0.3,
+            "statusChance": 0.2,
             "criticalChance": 0.8,
             "criticalDamage": 2.5,
             "runeSlots": 4,
