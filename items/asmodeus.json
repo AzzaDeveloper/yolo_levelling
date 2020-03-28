@@ -20,8 +20,8 @@
 					"heat": 10
                 }
             },
-            "attackSpeed": 1.3,
-            "attackRest": 0.8,
+            "attackSpeed": 1.2,
+            "attackRest": 0.9,
             "status": "burning",
             "statusChance": 0.3,
             "criticalChance": 0.3,

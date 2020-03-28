@@ -14,10 +14,10 @@
         "stats": {
             "damage": {
                 "physical": {
-	                "slash": 10
+	                "slash": 20
                 }
             },
-            "attackSpeed": 1.5,
+            "attackSpeed": 2,
             "attackRest": 0.5,
             "status": "bleeding",
             "statusChance": 0.2,

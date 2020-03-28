@@ -18,7 +18,7 @@
                     "puncture": 15
                 }
             },
-            "attackSpeed": 1,
+            "attackSpeed": 1.2,
             "attackRest": 1,
             "status": "bleeding",
             "statusChance": 0.4,

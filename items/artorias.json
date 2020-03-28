@@ -17,7 +17,7 @@
 	                "slash": 40
                 }
             },
-            "attackSpeed": 1.2,
+            "attackSpeed": 1.5,
             "attackRest": 1,
             "status": "bleeding",
             "statusChance": 0.3,
