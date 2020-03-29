@@ -17,7 +17,7 @@
                     "cold": 30
                 }
             },
-            "attackSpeed": 1,
+            "attackSpeed": 0.8,
             "attackRest": 0.9,
             "status": "bleeding",
             "statusChance": 0.3,

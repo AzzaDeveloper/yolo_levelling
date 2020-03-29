@@ -14,10 +14,10 @@
         "stats": {
             "damage": {
                 "elemental": {
-                    "heat": 30
+                    "heat": 35
                 }
             },
-            "attackSpeed": 0.9,
+            "attackSpeed": 0.7,
             "attackRest": 0.8,
             "status": "burning",
             "statusChance": 0.3,
