@@ -1,0 +1,30 @@
+{
+    "marauder": {
+        "info": {
+        	"name": "Marauder",
+			"id": "marauder",
+            "type": "weapon",
+            "class": "sword",
+            "rarity": 5,
+            "modifier": "",
+            "description": "Just keep medium distance. \n WHAT'S A MEDIUM DISTANCE?",
+            "requirements": {},
+            "effects": "High critical damage with slow speed."
+        },
+        "stats": {
+            "damage": {
+                "physical": {
+	                "slash": 40
+                }
+            },
+            "attackSpeed": 0.6,
+            "attackRest": 1.4,
+            "statusChance": 0.2,
+            "status": "bleeding",
+            "criticalChance": 0.5,
+            "criticalDamage": 2,
+            "runeSlots": 4,
+            "runes": {}
+        }
+    }
+}
